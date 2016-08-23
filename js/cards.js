@@ -38,7 +38,7 @@ function createCard() {
 
     // random img
     var image = document.createElement('img');
-    image.setAttribute("src", "img/favicon-32x32.png");
+    image.setAttribute("src", "img/blue_card.png");
     image.style.width = "100px";
     image.style.height = "100px";
     containerDiv.appendChild(image);
